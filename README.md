@@ -7,6 +7,7 @@
 <img src="/Screenshots/emojismixer_preview.gif" width="300" height="600">
 
 ## To-do
+
 ### Emojis sliders:
 
 - When scrolling both RecyclerViews fast sometimes shown mixed emojis is wrong.
